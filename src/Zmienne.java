@@ -37,5 +37,9 @@ public class Zmienne {
 
         boolean sun = false; //false
 
+        // https://github.com/przemjan/czwartaDgr3r2025
+
+        // Tworzenie i testowanie programów i aplikacji.
+
     }
 }
